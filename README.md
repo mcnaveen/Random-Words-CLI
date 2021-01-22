@@ -1,6 +1,6 @@
 # Words CLI 📚️
 
-![Words Test](https://github.com/mcnaveen/words-cli/workflows/Score%20Test/badge.svg) [![dependencies Status](https://status.david-dm.org/gh/mskian/cricket-cli.svg?style=flat-square)](https://david-dm.org/mcnaveen/words-cli)  
+![Words Test](https://github.com/mcnaveen/Random-Words-CLI/workflows/Words%20Test/badge.svg) [![dependencies Status](https://status.david-dm.org/gh/mcnaveen/Random-Words-CLI.svg?style=flat-square)](https://david-dm.org/mcnaveen/Random-Words-CLI)  
 
 Get Random Words on Terminal and CMD  
 
