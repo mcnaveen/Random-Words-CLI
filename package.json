@@ -1,5 +1,5 @@
 {
-  "name": "words-cli",
+  "name": "random-words-cli",
   "version": "1.0.0",
   "description": "Get Random Words on Terminal and CMD.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcnaveen/words-cli.git"
+    "url": "git+https://github.com/mcnaveen/random-words-cli.git"
   },
   "keywords": [
     "random-word",
@@ -23,9 +23,9 @@
   "author": "MC Naveen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mcnaveen/words-cli/issues"
+    "url": "https://github.com/mcnaveen/random-words-cli/issues"
   },
-  "homepage": "https://github.com/mcnaveen/words-cli#readme",
+  "homepage": "https://github.com/mcnaveen/random-words-cli#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",

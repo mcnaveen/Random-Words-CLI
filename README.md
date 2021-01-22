@@ -17,11 +17,11 @@ Get Random Words on Terminal and CMD
 - Install via GIT or Download the Repo
 
 ```sh
-git clone https://github.com/mcnaveen/words-cli.git
+git clone https://github.com/mcnaveen/random-words-cli.git
 ```
 
 ```sh
-cd words-cli
+cd random-words-cli
 npm install
 ```
 
@@ -36,7 +36,7 @@ npm link
 - Insall via `NPM`
 
 ```sh
-npm install -g words-cli
+npm install -g random-words-cli
 ```
 
 ```sh
