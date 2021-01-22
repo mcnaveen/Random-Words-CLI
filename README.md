@@ -38,9 +38,9 @@ npm link
 ```sh
 npm install -g random-words-cli
 ```
-
+## Usage (CLI)
 ```sh
-words
+word
 ```
 
 ## API Library 🗃
