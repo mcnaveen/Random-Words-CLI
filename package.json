@@ -4,8 +4,8 @@
   "description": "Get Random Words on Terminal and CMD.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js -l",
-    "start": "node index.js -l"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "bin": {
     "word": "./index.js"
