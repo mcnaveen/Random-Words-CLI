@@ -1,6 +1,6 @@
 {
   "name": "random-words-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get Random Words on Terminal and CMD.",
   "main": "index.js",
   "scripts": {
