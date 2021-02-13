@@ -1,6 +1,6 @@
 {
   "name": "random-words-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get Random Words on Terminal and CMD.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "word": "./index.js"
+    "word": "index.js"
   },
   "repository": {
     "type": "git",
