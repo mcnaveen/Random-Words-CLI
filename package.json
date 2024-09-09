@@ -30,6 +30,6 @@
     "axios": "^1.7.7",
     "chalk": "^4.1.2",
     "ora": "^5.4.1",
-    "update-notifier": "^5.1.0"
+    "update-notifier": "^7.3.1"
   }
 }
